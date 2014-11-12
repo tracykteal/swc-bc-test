@@ -10,7 +10,7 @@ source("chunk-options.R")
 # Novice R materials - following Python examples
 
 * Draw concept map of where we are headed towards best scientific practices, and reproducibility.
-* Its really important that you know what you did. More journals/grants/etc. are also making it important for them to know what you did.
+* It's really important that you know what you did. More journals/grants/etc. are also making it important for them to know what you did.
 * A lot of scientific code is *not* reproducible.
 * If you keep a lab notebook, why are we not as careful with our code? 
 * We edit each others manuscripts, but we don't edit each other's code. 
